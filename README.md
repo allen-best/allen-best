@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Allen Best. I am currently pursuing a bachelor of engineering in Software Engineering Student at Stevens Institute of Technology. I have internship experience and NBCUniversal and BNY Mellon. 
+
+![Allen's github stats](https://github-readme-stats.vercel.app/api?username=allen-best&count_private=true&show_icons=true&hide_title=true&&hide=issues)
 
 <!--
 **allen-best/allen-best** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
